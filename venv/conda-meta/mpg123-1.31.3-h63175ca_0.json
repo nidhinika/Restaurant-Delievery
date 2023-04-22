@@ -1,0 +1,213 @@
+{
+  "build": "h63175ca_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vs2015_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\OP LAL\\anaconda3\\pkgs\\mpg123-1.31.3-h63175ca_0",
+  "features": "",
+  "files": [
+    "Library/bin/mpg123.dll",
+    "Library/bin/out123.dll",
+    "Library/bin/syn123.dll",
+    "Library/include/fmt123.h",
+    "Library/include/mpg123.h",
+    "Library/include/out123.h",
+    "Library/include/syn123.h",
+    "Library/lib/cmake/mpg123/mpg123-config-version.cmake",
+    "Library/lib/cmake/mpg123/mpg123-config.cmake",
+    "Library/lib/cmake/mpg123/targets-release.cmake",
+    "Library/lib/cmake/mpg123/targets.cmake",
+    "Library/lib/mpg123.lib",
+    "Library/lib/mpg123/output_win32.dll",
+    "Library/lib/mpg123/output_win32_wasapi.dll",
+    "Library/lib/out123.lib",
+    "Library/lib/pkgconfig/libmpg123.pc",
+    "Library/lib/pkgconfig/libout123.pc",
+    "Library/lib/pkgconfig/libsyn123.pc",
+    "Library/lib/syn123.lib",
+    "Library/share/man/mpg123.1",
+    "Library/share/man/out123.1",
+    ".nonadmin"
+  ],
+  "fn": "mpg123-1.31.3-h63175ca_0.conda",
+  "license": "LGPL-2.1-only",
+  "license_family": "LGPL",
+  "link": {
+    "source": "C:\\Users\\OP LAL\\anaconda3\\pkgs\\mpg123-1.31.3-h63175ca_0",
+    "type": 1
+  },
+  "md5": "f6cbbb508d75b07afc3d3539aa2fcb7e",
+  "name": "mpg123",
+  "package_tarball_full_path": "C:\\Users\\OP LAL\\anaconda3\\pkgs\\mpg123-1.31.3-h63175ca_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/mpg123.dll",
+        "path_type": "hardlink",
+        "sha256": "f79eb0c8c4a15cc8e1292cf6af7aad469dd63b626fd048d0965282f7dcf1f149",
+        "sha256_in_prefix": "f79eb0c8c4a15cc8e1292cf6af7aad469dd63b626fd048d0965282f7dcf1f149",
+        "size_in_bytes": 299008
+      },
+      {
+        "_path": "Library/bin/out123.dll",
+        "path_type": "hardlink",
+        "sha256": "053ddf0837ec22ff83147b2c9b4a42c48c7346583998b5866a4cf723362bb56a",
+        "sha256_in_prefix": "053ddf0837ec22ff83147b2c9b4a42c48c7346583998b5866a4cf723362bb56a",
+        "size_in_bytes": 42496
+      },
+      {
+        "_path": "Library/bin/syn123.dll",
+        "path_type": "hardlink",
+        "sha256": "1272dea50f6b5e28919131bfe55bed0ee566ad819b2caa264d4e3160b1711f44",
+        "sha256_in_prefix": "1272dea50f6b5e28919131bfe55bed0ee566ad819b2caa264d4e3160b1711f44",
+        "size_in_bytes": 114688
+      },
+      {
+        "_path": "Library/include/fmt123.h",
+        "path_type": "hardlink",
+        "sha256": "9b7c2567f5aa80eefaeb045ed793fd013ac2d1ea9dbb11ff3434c485517d94a6",
+        "sha256_in_prefix": "9b7c2567f5aa80eefaeb045ed793fd013ac2d1ea9dbb11ff3434c485517d94a6",
+        "size_in_bytes": 6089
+      },
+      {
+        "_path": "Library/include/mpg123.h",
+        "path_type": "hardlink",
+        "sha256": "f8bb95f43d3d26e34189d00a55d99ae5a4e64b8e82bbd8ca04b32e0707134899",
+        "sha256_in_prefix": "f8bb95f43d3d26e34189d00a55d99ae5a4e64b8e82bbd8ca04b32e0707134899",
+        "size_in_bytes": 95365
+      },
+      {
+        "_path": "Library/include/out123.h",
+        "path_type": "hardlink",
+        "sha256": "069c0bd34462429172578ec36134f919e8860dd86d6f09d9981985749f88b775",
+        "sha256_in_prefix": "069c0bd34462429172578ec36134f919e8860dd86d6f09d9981985749f88b775",
+        "size_in_bytes": 30857
+      },
+      {
+        "_path": "Library/include/syn123.h",
+        "path_type": "hardlink",
+        "sha256": "cc2dbcfaaa45650040f3fe2730ad7c047c31f5d7ac270e9741184ce842615824",
+        "sha256_in_prefix": "cc2dbcfaaa45650040f3fe2730ad7c047c31f5d7ac270e9741184ce842615824",
+        "size_in_bytes": 50831
+      },
+      {
+        "_path": "Library/lib/cmake/mpg123/mpg123-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "7a989f524131edaab4f0f11772a752053efcd7e779e549e8a6c1da52a510436b",
+        "sha256_in_prefix": "7a989f524131edaab4f0f11772a752053efcd7e779e549e8a6c1da52a510436b",
+        "size_in_bytes": 1900
+      },
+      {
+        "_path": "Library/lib/cmake/mpg123/mpg123-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "2a48997a4f9fa39c86871424c938d7db55f6c5efa265db73883a1429915cb697",
+        "sha256_in_prefix": "2a48997a4f9fa39c86871424c938d7db55f6c5efa265db73883a1429915cb697",
+        "size_in_bytes": 959
+      },
+      {
+        "_path": "Library/lib/cmake/mpg123/targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "d5eca1e4d20d522627690e0720daf98f8eb41b6b1381ae8b50e954a016d5c3e1",
+        "sha256_in_prefix": "d5eca1e4d20d522627690e0720daf98f8eb41b6b1381ae8b50e954a016d5c3e1",
+        "size_in_bytes": 1989
+      },
+      {
+        "_path": "Library/lib/cmake/mpg123/targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "9b8f3437c45f965ada1c3d4f5bef67473e88d95443a4525d5a80a2c573935ae3",
+        "sha256_in_prefix": "9b8f3437c45f965ada1c3d4f5bef67473e88d95443a4525d5a80a2c573935ae3",
+        "size_in_bytes": 4466
+      },
+      {
+        "_path": "Library/lib/mpg123.lib",
+        "path_type": "hardlink",
+        "sha256": "780e344135f62efb795c12e47946365aad61bc9bd9235a6edf38f27fb2307422",
+        "sha256_in_prefix": "780e344135f62efb795c12e47946365aad61bc9bd9235a6edf38f27fb2307422",
+        "size_in_bytes": 25174
+      },
+      {
+        "_path": "Library/lib/mpg123/output_win32.dll",
+        "path_type": "hardlink",
+        "sha256": "80877b5c01cf668791dfeb676f81754a14bd561712694e071e48698b7aa16a5c",
+        "sha256_in_prefix": "80877b5c01cf668791dfeb676f81754a14bd561712694e071e48698b7aa16a5c",
+        "size_in_bytes": 15872
+      },
+      {
+        "_path": "Library/lib/mpg123/output_win32_wasapi.dll",
+        "path_type": "hardlink",
+        "sha256": "d6c09df9deccde5ab7d5fa1243e73b37d5a6176d452a1c936f3d2e86b3182693",
+        "sha256_in_prefix": "d6c09df9deccde5ab7d5fa1243e73b37d5a6176d452a1c936f3d2e86b3182693",
+        "size_in_bytes": 15872
+      },
+      {
+        "_path": "Library/lib/out123.lib",
+        "path_type": "hardlink",
+        "sha256": "5ae81cc49c0344f8cda6e4ec76795c8d90cec33e8dfb8863376c9258b5688849",
+        "sha256_in_prefix": "5ae81cc49c0344f8cda6e4ec76795c8d90cec33e8dfb8863376c9258b5688849",
+        "size_in_bytes": 8150
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libmpg123.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/mpg123_1679317513290/_h_env",
+        "sha256": "f24cd6ce3521a01d1d2703508d20853937bb99f977e776987566b5fb9d6eae71",
+        "sha256_in_prefix": "c302988d949751fa721c5a646f50af84c066fe9669d11756011593fc8ffc1cba",
+        "size_in_bytes": 390
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libout123.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/mpg123_1679317513290/_h_env",
+        "sha256": "23043a9260dd61b5d2eeb6bb22bda951feaf5863c3fb9b5d21918b2ffdce5bb6",
+        "sha256_in_prefix": "8b6d1a80b2464c57b60487d2c4dcbf0387afc70275944266ac4c27588f20a62d",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libsyn123.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/mpg123_1679317513290/_h_env",
+        "sha256": "1808f80d15aca9de1e85e426c2fa3d6049a838c7711eebd1e4733d818fd7c64c",
+        "sha256_in_prefix": "d6948dae3960447772bfe7d9027334ffa4773a7b55a0e4cd021a3abb9744edcc",
+        "size_in_bytes": 405
+      },
+      {
+        "_path": "Library/lib/syn123.lib",
+        "path_type": "hardlink",
+        "sha256": "19d61c0332397ff3235bc99d24a72d90fada2997f22feb29909457125ea49796",
+        "sha256_in_prefix": "19d61c0332397ff3235bc99d24a72d90fada2997f22feb29909457125ea49796",
+        "size_in_bytes": 10460
+      },
+      {
+        "_path": "Library/share/man/mpg123.1",
+        "path_type": "hardlink",
+        "sha256": "b24c424353ffa7fe48ed567d9bcccb746940ae2043b295ab6cc5bebe1d98683b",
+        "sha256_in_prefix": "b24c424353ffa7fe48ed567d9bcccb746940ae2043b295ab6cc5bebe1d98683b",
+        "size_in_bytes": 27578
+      },
+      {
+        "_path": "Library/share/man/out123.1",
+        "path_type": "hardlink",
+        "sha256": "22d027947fcde0aff71fd4cd4927ef45c2dbe47673f0231f3d6e0ce2f2493f5a",
+        "sha256_in_prefix": "22d027947fcde0aff71fd4cd4927ef45c2dbe47673f0231f3d6e0ce2f2493f5a",
+        "size_in_bytes": 13766
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "40d2771a10ee5f867aa983aebca3664714364d2edb9b20c6c768201615c1c7d3",
+  "size": 271081,
+  "subdir": "win-64",
+  "timestamp": 1679317864240,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/mpg123-1.31.3-h63175ca_0.conda",
+  "version": "1.31.3"
+}

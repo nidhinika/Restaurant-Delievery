@@ -1,0 +1,196 @@
+{
+  "build": "py38hbaf524b_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "numpy >=1.20.3,<2.0a0",
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38",
+    "soxr >=0.1.3,<0.1.4.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vs2015_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\OP LAL\\anaconda3\\pkgs\\soxr-python-0.3.3-py38hbaf524b_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/soxr-0.3.3.dist-info/COPYING.LGPL",
+    "Lib/site-packages/soxr-0.3.3.dist-info/INSTALLER",
+    "Lib/site-packages/soxr-0.3.3.dist-info/LICENSE.txt",
+    "Lib/site-packages/soxr-0.3.3.dist-info/METADATA",
+    "Lib/site-packages/soxr-0.3.3.dist-info/RECORD",
+    "Lib/site-packages/soxr-0.3.3.dist-info/REQUESTED",
+    "Lib/site-packages/soxr-0.3.3.dist-info/WHEEL",
+    "Lib/site-packages/soxr-0.3.3.dist-info/direct_url.json",
+    "Lib/site-packages/soxr-0.3.3.dist-info/top_level.txt",
+    "Lib/site-packages/soxr/__init__.pxd",
+    "Lib/site-packages/soxr/__init__.py",
+    "Lib/site-packages/soxr/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/soxr/__pycache__/version.cpython-38.pyc",
+    "Lib/site-packages/soxr/csoxr.pxd",
+    "Lib/site-packages/soxr/cysoxr.c",
+    "Lib/site-packages/soxr/cysoxr.cp38-win_amd64.pyd",
+    "Lib/site-packages/soxr/cysoxr.pyx",
+    "Lib/site-packages/soxr/soxr-config.h",
+    "Lib/site-packages/soxr/version.py",
+    ".nonadmin"
+  ],
+  "fn": "soxr-python-0.3.3-py38hbaf524b_0.tar.bz2",
+  "license": "LGPL-2.1-or-later",
+  "link": {
+    "source": "C:\\Users\\OP LAL\\anaconda3\\pkgs\\soxr-python-0.3.3-py38hbaf524b_0",
+    "type": 1
+  },
+  "md5": "112496fc1ddf5d4f61dbb48457910f9b",
+  "name": "soxr-python",
+  "package_tarball_full_path": "C:\\Users\\OP LAL\\anaconda3\\pkgs\\soxr-python-0.3.3-py38hbaf524b_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/COPYING.LGPL",
+        "path_type": "hardlink",
+        "sha256": "f2f118b9029ec1871b953639ecc46651b2fc7b62e295e6cf3ef2ac4c9a058b33",
+        "sha256_in_prefix": "f2f118b9029ec1871b953639ecc46651b2fc7b62e295e6cf3ef2ac4c9a058b33",
+        "size_in_bytes": 26432
+      },
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "d1ba16ab521231867e3ad8201e2b2beb18ec186c4190c789bbc231847720c853",
+        "sha256_in_prefix": "d1ba16ab521231867e3ad8201e2b2beb18ec186c4190c789bbc231847720c853",
+        "size_in_bytes": 3778
+      },
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d2aed347fe2412a4cd0aff780307884ec69ced4bd9c583baa1e1a57c02b91fee",
+        "sha256_in_prefix": "d2aed347fe2412a4cd0aff780307884ec69ced4bd9c583baa1e1a57c02b91fee",
+        "size_in_bytes": 5171
+      },
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4657053c1a5d28ba44329608e60e2a092f795c6cef71ed086daa8ca1a554f769",
+        "sha256_in_prefix": "4657053c1a5d28ba44329608e60e2a092f795c6cef71ed086daa8ca1a554f769",
+        "size_in_bytes": 1423
+      },
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a05708eeb9bf2a8e994efdce93bca1a08a53de1c269a639d2492cc5160ec1cff",
+        "sha256_in_prefix": "a05708eeb9bf2a8e994efdce93bca1a08a53de1c269a639d2492cc5160ec1cff",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "991e1dcbdfa5c7b3f21a1e40c4a167ba9b4e989688f88b30e39f2f7983440809",
+        "sha256_in_prefix": "991e1dcbdfa5c7b3f21a1e40c4a167ba9b4e989688f88b30e39f2f7983440809",
+        "size_in_bytes": 72
+      },
+      {
+        "_path": "Lib/site-packages/soxr-0.3.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "84a8307d0b1bc0de4aa2f2f4a189fe8694d540823258cc58c8637366ab3fc3ea",
+        "sha256_in_prefix": "84a8307d0b1bc0de4aa2f2f4a189fe8694d540823258cc58c8637366ab3fc3ea",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/soxr/__init__.pxd",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/soxr/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d02347134f7ffd69af1fce5b4805216080cb5e6bdb3ba9342e65e56d26c86bff",
+        "sha256_in_prefix": "d02347134f7ffd69af1fce5b4805216080cb5e6bdb3ba9342e65e56d26c86bff",
+        "size_in_bytes": 5623
+      },
+      {
+        "_path": "Lib/site-packages/soxr/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "16ce5f6ba5c9ff66ba0a18f830f482a084ac12d6a1b2cd2520c66c3dcf915841",
+        "sha256_in_prefix": "16ce5f6ba5c9ff66ba0a18f830f482a084ac12d6a1b2cd2520c66c3dcf915841",
+        "size_in_bytes": 5116
+      },
+      {
+        "_path": "Lib/site-packages/soxr/__pycache__/version.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "86f4234aa6369aa22ac6018f159bd030531167c04cb7b8e9b57b249386cb3039",
+        "sha256_in_prefix": "86f4234aa6369aa22ac6018f159bd030531167c04cb7b8e9b57b249386cb3039",
+        "size_in_bytes": 219
+      },
+      {
+        "_path": "Lib/site-packages/soxr/csoxr.pxd",
+        "path_type": "hardlink",
+        "sha256": "89daed473107c73c47bf976308dbafc8680753db194a179b97c4345aa79e9906",
+        "sha256_in_prefix": "89daed473107c73c47bf976308dbafc8680753db194a179b97c4345aa79e9906",
+        "size_in_bytes": 2020
+      },
+      {
+        "_path": "Lib/site-packages/soxr/cysoxr.c",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:\\\\bld\\\\soxr-python_1667959215474\\\\_h_env",
+        "sha256": "34ac553243228eb22d3d4aab5b6b4220735117cd8194b2c9f461f679744e53db",
+        "sha256_in_prefix": "345a808bf5b0f7be59934f35379f4fe6ed875ca5ac3af1982d812eff27d855a3",
+        "size_in_bytes": 1572165
+      },
+      {
+        "_path": "Lib/site-packages/soxr/cysoxr.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "f601d2f5848b45f23939a98e2e42c61b62412c97c71bdc8d87a1594787d450ff",
+        "sha256_in_prefix": "f601d2f5848b45f23939a98e2e42c61b62412c97c71bdc8d87a1594787d450ff",
+        "size_in_bytes": 234496
+      },
+      {
+        "_path": "Lib/site-packages/soxr/cysoxr.pyx",
+        "path_type": "hardlink",
+        "sha256": "7da57f42aab0c3a0a1f666e17b0130be4f67d314557e1b36772c120862222329",
+        "sha256_in_prefix": "7da57f42aab0c3a0a1f666e17b0130be4f67d314557e1b36772c120862222329",
+        "size_in_bytes": 6774
+      },
+      {
+        "_path": "Lib/site-packages/soxr/soxr-config.h",
+        "path_type": "hardlink",
+        "sha256": "bf7edabf0469933d88ebc5e62e021e0d74bf90b52cc9aea9c3c8d27248025b51",
+        "sha256_in_prefix": "bf7edabf0469933d88ebc5e62e021e0d74bf90b52cc9aea9c3c8d27248025b51",
+        "size_in_bytes": 490
+      },
+      {
+        "_path": "Lib/site-packages/soxr/version.py",
+        "path_type": "hardlink",
+        "sha256": "50a1267e84b0e9110e24cd722a0f4853014c7e2eae4086de97a820eb9d1f33df",
+        "sha256_in_prefix": "50a1267e84b0e9110e24cd722a0f4853014c7e2eae4086de97a820eb9d1f33df",
+        "size_in_bytes": 181
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "cbd8f1b5ef332d2345e46d8ca7002fdf04b3038cfc96b55694f68b481458c9b4",
+  "size": 265248,
+  "subdir": "win-64",
+  "timestamp": 1667959749983,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/soxr-python-0.3.3-py38hbaf524b_0.tar.bz2",
+  "version": "0.3.3"
+}
