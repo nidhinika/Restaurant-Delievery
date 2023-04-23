@@ -1,15 +1,18 @@
 ## End to End ML Project
 
+
 ### Created an Environment
 ```
 conda create -p venv python==3.8
 conda activate venv/
+
 ```
 ### Install all necessary files
 
 ```
 pip install -r requirements.txt
 ```
+
 ### Python setup.py install
 ```
 python setup.py install
@@ -18,3 +21,5 @@ python setup.py install
 ```
 git config http.postBuffer 524288000
 ```
+
+
